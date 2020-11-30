@@ -1,0 +1,33 @@
+{
+	"articles": [{
+			"post_title": "Presiden Ingatkan Kepala Daerah untuk Cegah Memburuknya Pandemi",
+			"excerpt": "Kekecewaanmemburuknya penanganan Covid-19 disampaikan Presiden Jokowi saat pimpin rapat membahas laporan Komite Penanganan Covid-19 dan Pemulihan Ekonomi Nasional di Istana Merdeka. Presiden pun ingatkan kepala daerah.",
+			"post_date": "2020-11-30 00:00:00",
+			"category": [{
+					"slug": "ekonomi",
+					"name": "Ekonomi"
+				},
+				{
+					"slug": "polhuk",
+					"name": "politik & hukum"
+				}
+			]
+		},
+		{
+			"post_title": "Jumlah Investor Syariah Indonesia Meningkat 563 Persen",
+			"excerpt": "Investor syariah Indonesia terus tumbuh selama pandemi Covid-19. Jumlah investor syariah per Oktober 2020 sebanyak 81.413 investor dengan pangsa pasar sekitar 5,7 persen terhadap total investor.",
+			"post_date": "2020-11-30 00:00:00",
+			"category": [{
+					"slug": "ekonomi",
+					"name": "Ekonomi"
+				},
+				{
+					"slug": "artikel-opini",
+					"name": "Artikel Opini"
+				}
+			]
+		}
+
+	]
+
+}
